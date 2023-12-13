@@ -1,0 +1,29 @@
+{
+  "name": "aandrheader",
+  "version": "1.0.4",
+  "description": "awe and reverence header test",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "babel src -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YosefAshenafi/header-package.git"
+  },
+  "keywords": [
+    "header"
+  ],
+  "author": "yosef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YosefAshenafi/header-package/issues"
+  },
+  "homepage": "https://github.com/YosefAshenafi/header-package#readme",
+  "devDependencies": {
+    "@babel/core": "^7.23.6",
+    "@babel/preset-env": "^7.23.6",
+    "@babel/preset-react": "^7.23.3",
+    "babel-loader": "^9.1.3"
+  }
+}
