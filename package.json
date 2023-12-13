@@ -1,6 +1,6 @@
 {
   "name": "aandrheader",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "awe and reverence header test",
   "main": "dist/index.js",
   "scripts": {

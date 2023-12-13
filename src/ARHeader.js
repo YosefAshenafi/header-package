@@ -1,7 +1,7 @@
 import React from 'react';
 
 const ARHeader = () => {
-  return <header>This is the ARHeader component</header>;
+  return <h1>This is the ARHeader component</h1>;
 };
 
 export default ARHeader;
